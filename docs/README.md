@@ -1,7 +1,7 @@
 
 # Pixel Day 1
 
-change [[font]] of words using html
+change [[font]] of words using html<br/>
 <font size='1'> hello size 1 </font>
 <font color='red'>hello color red</font>
   

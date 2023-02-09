@@ -1,13 +1,11 @@
 
-# Pixel Day 1
+# Pixel Days
 
-change [[font]] of words using html <br/>
-<font size='1'> hello size 1 </font> <br/>
-<font color='red'>hello color red</font> <br/>
-bar icon not changing<br/>
-
+<font color='brown'>Day 1</font> <br/>
 ![dog1](https://user-images.githubusercontent.com/123052690/217288942-bef404e0-82a6-460a-99e5-0822fe991a2e.gif)![Sd](https://user-images.githubusercontent.com/123052690/217288961-3548fb8e-88fb-4459-9069-b19e134590a5.gif)
 
+<font color='brown'>Day 2</font> <br/>
+![browndog-Recovered](https://user-images.githubusercontent.com/123052690/217834331-c48baa21-f883-4daf-b943-bdb8a88ea44d.gif)
 
  ``` python
  print("Hello world")

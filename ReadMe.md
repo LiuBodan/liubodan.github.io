@@ -1,0 +1,3 @@
+A personal website docing my study notes for AI/Math/PixelArt/GameDev/......
+
+Powered by Docsify with night-and-light-switch-mode

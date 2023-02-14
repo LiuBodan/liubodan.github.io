@@ -12,10 +12,4 @@
 ![browndog-Recovered](https://user-images.githubusercontent.com/123052690/217834331-c48baa21-f883-4daf-b943-bdb8a88ea44d.gif)
 
 <font color='brown'>Day 5</font> <br/>
-![xiaobao](https://user-images.githubusercontent.com/123052690/218756674-92ce2e3e-2cba-4621-aa94-d1979777ac24.gif)
-
-
-
-
-
-
+![xiaobao](https://user-images.githubusercontent.com/123052690/218757852-76e4c41e-89e3-48d0-8b90-f08059103ffa.gif)

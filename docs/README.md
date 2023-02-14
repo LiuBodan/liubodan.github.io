@@ -9,6 +9,7 @@
 
 <font color='brown'>Day 5</font> <br/>
 ![xiaobao](https://user-images.githubusercontent.com/123052690/218749062-2bbb012d-a5ac-403c-b9cf-349ef4edf30e.gif)
+![xiaobao](https://user-images.githubusercontent.com/123052690/218750880-3aceb3ae-42a4-49a2-b934-1853b354eee5.gif)
 
  ``` python
  print("Hello world")

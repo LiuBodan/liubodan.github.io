@@ -8,9 +8,9 @@
 ![browndog-Recovered](https://user-images.githubusercontent.com/123052690/217834331-c48baa21-f883-4daf-b943-bdb8a88ea44d.gif)
 
 <font color='brown'>Day 5</font> <br/>
-![xiaobao](https://user-images.githubusercontent.com/123052690/218749062-2bbb012d-a5ac-403c-b9cf-349ef4edf30e.gif)
+
 ![xiaobao](https://user-images.githubusercontent.com/123052690/218755648-fe31b06c-fcc2-4094-b345-ae68c31d4297.gif)
--1853b354eee5.gif)
+
 
  ``` python
  print("Hello world")

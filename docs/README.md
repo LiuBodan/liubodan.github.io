@@ -7,6 +7,9 @@
 <font color='brown'>Day 2</font> <br/>
 ![browndog-Recovered](https://user-images.githubusercontent.com/123052690/217834331-c48baa21-f883-4daf-b943-bdb8a88ea44d.gif)
 
+<font color='brown'>Day 5</font> <br/>
+![xiaobao](https://user-images.githubusercontent.com/123052690/218749062-2bbb012d-a5ac-403c-b9cf-349ef4edf30e.gif)
+
  ``` python
  print("Hello world")
 

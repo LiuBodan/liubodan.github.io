@@ -15,7 +15,7 @@
 ![xiaobao](https://user-images.githubusercontent.com/123052690/218757852-76e4c41e-89e3-48d0-8b90-f08059103ffa.gif)
 
 <font color='brown'>Day 6</font> <br/>
-![xaobao](https://user-images.githubusercontent.com/123052690/219085437-33177f65-e701-46f9-99bd-d56a68a98128.gif)
+![xaobao](https://user-images.githubusercontent.com/123052690/219085631-c8dfec81-8ac9-4c8b-93a8-ebf3abcf1522.gif)
 ![childbao](https://user-images.githubusercontent.com/123052690/219083753-59826660-f63e-4b27-803c-aa0c610d3613.gif)
 ![xiaobaogif](https://user-images.githubusercontent.com/123052690/219083780-cff2c72f-75e9-466a-bfc4-7dd9ffd4538f.gif)
 ![small_BAOBAO](https://user-images.githubusercontent.com/123052690/219084370-a2d1bd93-3775-4f53-8cb3-c755068cc39b.gif)

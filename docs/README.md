@@ -18,3 +18,4 @@
 ![xaobao](https://user-images.githubusercontent.com/123052690/219083676-ecb5a7e4-d109-4dcc-92bb-3f163ecf655a.gif)
 ![childbao](https://user-images.githubusercontent.com/123052690/219083753-59826660-f63e-4b27-803c-aa0c610d3613.gif)
 ![xiaobaogif](https://user-images.githubusercontent.com/123052690/219083780-cff2c72f-75e9-466a-bfc4-7dd9ffd4538f.gif)
+![small_BAOBAO](https://user-images.githubusercontent.com/123052690/219084370-a2d1bd93-3775-4f53-8cb3-c755068cc39b.gif)

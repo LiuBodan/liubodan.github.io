@@ -13,3 +13,8 @@
 
 <font color='brown'>Day 5</font> <br/>
 ![xiaobao](https://user-images.githubusercontent.com/123052690/218757852-76e4c41e-89e3-48d0-8b90-f08059103ffa.gif)
+
+<font color='brown'>Day 6</font> <br/>
+![xaobao](https://user-images.githubusercontent.com/123052690/219083676-ecb5a7e4-d109-4dcc-92bb-3f163ecf655a.gif)
+![childbao](https://user-images.githubusercontent.com/123052690/219083753-59826660-f63e-4b27-803c-aa0c610d3613.gif)
+![xiaobaogif](https://user-images.githubusercontent.com/123052690/219083780-cff2c72f-75e9-466a-bfc4-7dd9ffd4538f.gif)
